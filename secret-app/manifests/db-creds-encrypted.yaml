@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 type: Opaque
-metadata:
+ metadata:
   name: mysql-credentials
    data:
    connection: bXktZGItY29ubmVjdGlvbi5leGFtcGxlLmNvbTozMzA2
